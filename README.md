@@ -5,4 +5,4 @@ Mapear padrões de evolução da complexidade econômica nas UFs.
 ## Linguagem
 Rstudio
 ## Fonte dos dados
-- Data Viva;
+- Data Viva
