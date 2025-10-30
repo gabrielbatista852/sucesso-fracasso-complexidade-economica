@@ -1,5 +1,5 @@
 # Casos de sucesso e fracasso em termos de Complexidade Econômica (2006-2021)
-Este projeto apresenta uma análise dos casos de sucesso e fracasso das UFs brasileiras, em termos da trajetória do ICE-R (Índice de Complexidade Econômica) para emprego. 
+Este projeto apresenta uma análise dos casos de sucesso e fracasso das UFs brasileiras, em termos da trajetória do ICE-R (Índice de Complexidade Econômica) para emprego, para o período de 2006 a 2021 
 
 ## Dados
 - Fonte: Data Viva
