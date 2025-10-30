@@ -6,7 +6,7 @@ Este projeto apresenta uma análise dos casos de sucesso e fracasso das UFs bras
 - Período: 2006-2021
 
 ## Objetivo
-Mapear padrões de evolução da complexidade econômica nas UFs.
+identificar os casos de sucesso e fracasso de acordo com uma metodologia pré-definida
 
 ## Metodologia - Passo a passo para seleção dos casos de sucesso e fracasso
 1. Seleção das 5 UFs com maiores ganhos de posições e as 5 UFs com maiores perdas de posições no Ranking de Complexidade
